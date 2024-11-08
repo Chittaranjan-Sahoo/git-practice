@@ -2,5 +2,9 @@ hii i am chittaranjan
 
 hi i am subham kumar
 
+<<<<<<< HEAD
 
 subham kumar is a good boy
+=======
+chittaranjan is a goodboy
+>>>>>>> edaa099426d99246ec8631ca769da63e147421e8
